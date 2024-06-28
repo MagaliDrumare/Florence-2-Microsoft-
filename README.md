@@ -4,3 +4,6 @@ Florence-2 is an advanced vision foundation model that uses a prompt-based appro
 
 ### Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks
 - https://huggingface.co/microsoft/Florence-2-large
+
+### Démo Xenova florence2-webgpu
+- https://huggingface.co/spaces/Xenova/florence2-webgpu
