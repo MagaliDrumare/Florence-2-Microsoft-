@@ -7,3 +7,4 @@ Florence-2 is an advanced vision foundation model that uses a prompt-based appro
 
 ### Démo Xenova florence2-webgpu
 - https://huggingface.co/spaces/Xenova/florence2-webgpu
+- Démo Xenova : https://github.com/xenova/transformers.js?tab=readme-ov-file
